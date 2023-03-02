@@ -32,5 +32,6 @@ Then add the following line to ~/home/.aliases:
 
 # Usage
 Launch your terminal and just type 'chat' to interact with chatGPT!
+Type 'exit' to end the conversation.
 
 Note: Each consecutive turn feeds the api with the dialogue history so far, so the price builds up.

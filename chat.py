@@ -33,7 +33,7 @@ if __name__ == "__main__":
     model = ChatGPT()
     print("Enter a prompt to generate text (type 'exit' to quit): ")
     while True:
-        prompt = input("Taha: ")
+        prompt = input("You: ")
         if prompt.lower() == "exit":
             break
 

@@ -22,7 +22,7 @@ If you want to launch the program with an alias create a new script named "chat.
 ```
 eval "$(conda shell.bash hook)"
 conda activate chat
-python ~/<PATH_TO_REPO>/Terminal_ChatGPT/chat.py
+python ~/<PATH_TO_REPO>/chat.py
 conda deactivate
 ```
 

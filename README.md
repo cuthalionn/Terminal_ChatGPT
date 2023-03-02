@@ -9,8 +9,11 @@ Create an environment and Install openai library:
 3. `pip install openai`
 
 # OpenAI key
+Create a new file called `config.py` in the repository.
 
-Enter your OpenAI key within `config.py` file.
+Enter a new line with your api key as follows:
+
+`api_key="<YOUR_API_KEY>"`
 
 # Terminal Alias
 

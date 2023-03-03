@@ -8,13 +8,6 @@ Create an environment and Install openai library:
 2. `conda activate chat`
 3. `pip install openai`
 
-# OpenAI key
-Create a new file called `config.py` in the repository.
-
-Enter a new line with your api key as follows:
-
-`api_key="<YOUR_API_KEY>"`
-
 # Terminal Alias
 
 If you want to launch the program with an alias create a new script named "chat.sh" in your ~/home directory with the following contents:

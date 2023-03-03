@@ -1,6 +1,6 @@
 import config
 import openai
-openai.api_key = config.api_key
+openai.api_key = <YOUR_API_KEY>
 COMPLETIONS_MODEL = "gpt-3.5-turbo"
 MAX_TOKENS = 500
 
